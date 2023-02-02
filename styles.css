@@ -1,0 +1,64 @@
+body{ 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #828282;
+    text-align: center;
+    margin: 0;
+}
+
+#hero{ 
+    width: 540px;
+    margin: 64px auto 64px;
+    text-align: center;
+    line-height: 22px;
+ }
+
+#trip-girl img{ 
+    margin-bottom: 32px;
+}
+
+h1{ 
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    color: #3F3D56;
+    font-weight: normal;
+    margin-bottom: 16px;
+    line-height: 22px;
+ }
+
+h1 span{ 
+    font-weight: bold;
+    color: #EE24FF;
+}
+
+p{ 
+    margin: 32px 0px;
+}
+
+span, a{ 
+    font-weight: bold;
+    color: #3F3D56;
+    text-decoration: none;
+}
+
+#line{ 
+    width: 391px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 16px;
+}
+
+#footer{ 
+    margin-bottom: 32px;
+}
+
+#footer a + a{ 
+    margin-left: 42px;
+}
+
+#waves-footer{ 
+    position: fixed;
+    bottom: 0;
+    right: 0px;
+    width: 100vw;
+    height: 104px;
+}
